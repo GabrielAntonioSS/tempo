@@ -1,0 +1,12 @@
+{
+  "name": "Tempo.GG",
+  "displayName": "Tempo.GG",
+  "expo": {
+    "name": "Tempo.GG",
+    "slug": "Tempo.GG",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
